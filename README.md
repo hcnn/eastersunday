@@ -22,7 +22,6 @@ Download, compile, and run [test.c](https://github.com/hcnn/eastersunday/blob/ma
 ```
 git clone git@github.com:hcnn/eastersunday.git
 cd eastersunday
-make deps
 make validate
 make showcase
 ```
