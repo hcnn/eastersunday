@@ -1,0 +1,9 @@
+{
+  "name": "eastersunday",
+  "version": "0.1.0",
+  "repo": "hcnn/eastersunday",
+  "description": "Determine day and month of Eastern Sunday in a specific year.",
+  "keywords": ["calendar function", "easter sunday"],
+  "license": "MIT",
+  "src": ["eastersunday.c", "eastersunday.h"]
+}
